@@ -4,6 +4,15 @@ Exercício avaliativo de HTML/CSS: página com uma série de problemas de
 estilo e marcação propositalmente inseridos (aspas faltando, imagens fora
 de proporção, etc.) para identificar e corrigir.
 
+## Estrutura
+
+```
+ProvaA/
+├── index.html
+├── css/
+└── img/
+```
+
 ## Tecnologias
 
 - HTML5
